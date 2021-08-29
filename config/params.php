@@ -5,7 +5,7 @@ return [
     'senderEmail' => 'noreply@example.com',
     'senderName' => 'Example.com mailer',
     'git' => [
-        'login' => 'vasilaki-t',
-        'password' => 'snowf1ake',
+        'login' => 'git login',
+        'password' => 'git password',
     ],
 ];
